@@ -4,6 +4,10 @@ It will build on this basic feature to allow more users to login and do the same
 Then we will build features like ability to share your comments with others. 
 We might also explore the option of having an online bookclub, where you can discuss a book. 
 
+# Hosting
+* I do not need to buy a new domain since I can use my existing domain as below
+* In the future if I have more similar ideas, I can take more hosting spaces and host more apps in it.
+* Eventually when I am comfortable, I will try to explore options for monetizing it.
 
 # Some more features
 Book Tracker 
