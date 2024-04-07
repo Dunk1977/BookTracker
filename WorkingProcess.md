@@ -5,14 +5,14 @@
 * Production environment will be on GoDaddy (Already a task has been defined for it)
 
 # Proces/Work Flow
-+ Pick a feature/bug. 
-+ Decide whether to branch or work on the main branch
-+ Plan to implement feature 
-+ Check out
-- git pull origin master 
-- Work on files and folders
-- git add .
-- git commit -m 'For #IssueNumber' 
-- git push origin master 
-+ If I have published on GitHub perform testing of the feature
+1. Pick a feature/bug. 
+2. Decide whether to branch or work on the main branch
+3. Plan to implement feature 
+4. Check out
+    - git pull origin master 
+    - Work on files and folders
+    - git add .
+    - git commit -m 'For #IssueNumber' 
+    - git push origin master 
+5. If I have published on GitHub perform testing of the feature
 
