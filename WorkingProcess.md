@@ -12,7 +12,8 @@
     - git pull origin master 
     - Work on files and folders
     - git add .
-    - git commit -m 'For #IssueNumber' 
+    - git commit -m 'For #IssueNumber' (if its just an upgrade)
+    - git commit -m 'Closes #IssueNumber' (if it is closing the issue)
     - git push origin master 
 5. If I have published on GitHub perform testing of the feature
 
